@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Mundo Ciudadanias** -  **Proyecto SantexAcademy (Municipalidad De Morteros)**
 
-- 🌱 I’m currently learning **React & Vue**
+- 🌱 I’m currently learning **React**
 
 - 🤝 I’m looking for help with **Frontend js**
 
