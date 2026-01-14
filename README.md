@@ -1,4 +1,4 @@
-# Hi 👋, I'm Cristian Aguirre
+# Hola 👋, Soy Cristian Aguirre
 
 ### Apasionado de los datos
 
