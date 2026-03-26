@@ -1,26 +1,27 @@
 # 🚀 Cristian Emanuel Aguirre | Data Analyst Specialist
-> **Transformando datos complejos en decisiones estratégicas | [cite_start]+20 años de experiencia** [cite: 5, 6]
+> **Transformando datos masivos en decisiones estratégicas | [cite_start]+20 años de trayectoria** [cite: 5]
 
-<p align="left">
-  <img src="https://img.shields.io/badge/📍_Ubicación-Martinez,_Buenos_Aires-0077B5?style=flat-square" />
-  <img src="https://img.shields.io/badge/📧_Email-dev.aguirrecristian@gmail.com-D14836?style=flat-square" />
-  <img src="https://img.shields.io/badge/📱_WhatsApp-+54_1134311439-25D366?style=flat-square" />
-</p>
+---
+
+### 📬 Contacto Directo
+- [cite_start]**📍 Ubicación:** Martinez, Buenos Aires [cite: 4]
+- [cite_start]**📧 Email:** dev.aguirrecristian@gmail.com [cite: 4]
+- [cite_start]**📱 WhatsApp:** +54 1134311439 [cite: 4]
+- **🌐 Idiomas:** Español (Nativo) | [cite_start]Inglés (B2) [cite: 52]
 
 ---
 
 ## 💡 Perfil Profesional
-[cite_start]Analista de Datos especializado en el diseño de **KPIs**, optimización de procesos y generación de insights accionables[cite: 5, 6]. [cite_start]Mi enfoque combina la solidez de dos décadas gestionando datos críticos con el dominio de herramientas modernas de analítica avanzada[cite: 5, 7].
+[cite_start]Analista de Datos con una sólida trayectoria en la transformación de grandes volúmenes de datos en insights accionables para mejorar la eficiencia operativa[cite: 6]. [cite_start]Especializado en el diseño de KPIs, optimización de procesos y desarrollo de dashboards de alto impacto[cite: 5, 7].
 
 ---
 
-## 📊 Mi Stack de Herramientas (Infografía Visual)
+## 🛠️ Stack Tecnológico (Infografía Técnica)
 
-```javascript
-// Áreas de Dominio Técnico
-const skills = {
-  [cite_start]data_analysis:  ["Python (Pandas, NumPy)", "SQL", "Snowflake"], [cite: 49]
-  [cite_start]visualization: ["Power BI (DAX)", "Tableau", "Looker Studio"], [cite: 50]
-  [cite_start]platforms:     ["Databricks", "Google Analytics 4 (GA4)"], [cite: 13, 14, 47]
-  [cite_start]core_business: ["Diseño de KPIs", "Calidad de Datos", "Procesos"] [cite: 5, 8, 51]
-};
+```python
+class PerfilCristian:
+    def __init__(self):
+        [cite_start]self.lenguajes = ["Python (Pandas, NumPy)", "SQL"] # [cite: 49]
+        [cite_start]self.visualizacion = ["Power BI", "Tableau", "Looker Studio"] # [cite: 50]
+        [cite_start]self.plataformas = ["Databricks", "Snowflake", "GA4"] # [cite: 13, 14, 49]
+        [cite_start]self.expertiz = ["Diseño de KPIs", "Calidad de Datos", "Automatización"] # [cite: 51]
