@@ -1,22 +1,78 @@
-# Hola 👋, Soy Cristian Aguirre
+# 📊 Cristian Emanuel Aguirre | Analista de Datos
 
-### Apasionado de los datos
-
-- 🌱 Actualmente estoy mejorando mis skills en  **Snowflake , Tableau , Microsfot Fabric, Ingles!**
-
-- 👯 Buscando trabajo **estoy abierto a oportunidades laborales en el ámbito de analisis de negocio con datos**
-
-- 💬 Consultame  **Encantado de ayudarte con Power BI , Excel y SQL**
-
-- 📫 Puedes contactarme en **dev.aguirrecristian@gmail.com**
-
-- 📄 Mi CV **[https://drive.google.com/file/d/1qaY4Y7l0hUpT9z_G4v08GoccgZf10leh/view?usp=sharing](https://drive.google.com/file/d/1qaY4Y7l0hUpT9z_G4v08GoccgZf10leh/view?usp=sharing)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/cristianmoto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="cristianmoto" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/cristian-e-aguirre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cristian-e-aguirre" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:dev.aguirrecristian@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/[TU_PERFIL_DE_LINKEDIN_AQUÍ]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/541134311439">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mssql" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a></p>
+---
+
+## 👨‍💻 Sobre Mí
+
+**Analista de Datos senior** con una trayectoria excepcional de **más de 20 años** transformando datos operativos y administrativos en activos estratégicos. Mi enfoque combina una profunda experiencia en gestión documental y administrativa con herramientas modernas de *Data Analytics*.
+
+🎯 **Mi especialidad:** Diseñar KPIs, desarrollar dashboards impactantes, garantizar la calidad de los datos y optimizar procesos para impulsar la eficiencia y la toma de decisiones basada en evidencia.
+
+💡 **Mi valor:** Traducir grandes volúmenes de datos complejos en *insights* claros y accionables para equipos multidisciplinarios.
+
+---
+
+## 🛠️ Mi Stack Tecnológico
+
+Aquí puedes ver las herramientas que utilizo para dominar el ciclo de vida de los datos:
+
+| Categoría | Herramientas y Tecnologías |
+| :--- | :--- |
+| **Lenguajes y Consultas** | `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `SQL` |
+| **Plataformas de Datos** | `Databricks` `Snowflake` `Google Analytics 4 (GA4)` |
+| **BI & Visualización** | `Power BI` `DAX` `Tableau` `Looker Studio` `Excel (Avanzado)` |
+| **Metodologías** | `Diseño de KPIs` `Calidad de Datos` `Optimización de Procesos` `BI` |
+
+---
+
+## 📈 Mi ADN Profesional (Infografía)
+
+Esta matriz representa el equilibrio de mis competencias clave desarrolladas a lo largo de mi carrera:
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#e1f5fe', 'edgeLabelBackground':'#ffffff', 'tertiaryColor': '#fff'}}}%%
+graph TD
+    %% Nodos Principales
+    Expertise[⚡ Más de 20 años de Experiencia]
+    GestionDatos(🛠️ Gestión y Calidad de Datos)
+    AnalisisBI(📊 Análisis y Visualización BI)
+    Impacto(🚀 Impacto en el Negocio)
+
+    %% Conexiones
+    Expertise --> GestionDatos
+    Expertise --> AnalisisBI
+    GestionDatos --> Impacto
+    AnalisisBI --> Impacto
+
+    %% Detalles de Gestión
+    GestionDatos -.-> D1[Supervisión de Volúmenes Masivos]
+    GestionDatos -.-> D2[Trazabilidad y Precisión]
+    GestionDatos -.-> D3[Estructuración de Bases de Datos]
+
+    %% Detalles de Análisis
+    AnalisisBI -.-> A1[Diseño de Marcos de KPIs]
+    AnalisisBI -.-> A2[Dashboards Interactivos]
+    AnalisisBI -.-> A3[Identificación de Cuellos de Botella]
+
+    %% Detalles de Impacto
+    Impacto ==> I1(Toma de Decisiones Estratégicas)
+    Impacto ==> I2(Reducción de Tiempos de Tramitación)
+    Impacto ==> I3(Eficiencia Operativa Medible)
+
+    %% Estilos
+    style Expertise fill:#01579b,stroke:#01579b,color:white,stroke-width:2px
+    style GestionDatos fill:#0277bd,stroke:#0277bd,color:white
+    style AnalisisBI fill:#0277bd,stroke:#0277bd,color:white
+    style Impacto fill:#2e7d32,stroke:#2e7d32,color:white,stroke-width:2px
