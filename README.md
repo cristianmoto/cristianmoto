@@ -45,7 +45,7 @@ Esta matriz representa el equilibrio de mis competencias clave desarrolladas a l
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#e1f5fe', 'edgeLabelBackground':'#ffffff', 'tertiaryColor': '#fff'}}}%%
 graph TD
     %% Nodos Principales
-    Expertise[⚡ Más de 20 años de Experiencia]
+    Expertise[⚡ Más de 10 años de Experiencia]
     GestionDatos(🛠️ Gestión y Calidad de Datos)
     AnalisisBI(📊 Análisis y Visualización BI)
     Impacto(🚀 Impacto en el Negocio)
