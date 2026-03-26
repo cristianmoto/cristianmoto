@@ -16,7 +16,7 @@
 
 ## 👨‍💻 Sobre Mí
 
-**Analista de Datos senior** con una trayectoria excepcional de **más de 20 años** transformando datos operativos y administrativos en activos estratégicos. Mi enfoque combina una profunda experiencia en gestión documental y administrativa con herramientas modernas de *Data Analytics*.
+**Analista de Datos senior** con una trayectoria excepcional de **más de 10 años** transformando datos operativos y administrativos en activos estratégicos. Mi enfoque combina una profunda experiencia en gestión documental y administrativa con herramientas modernas de *Data Analytics*.
 
 🎯 **Mi especialidad:** Diseñar KPIs, desarrollar dashboards impactantes, garantizar la calidad de los datos y optimizar procesos para impulsar la eficiencia y la toma de decisiones basada en evidencia.
 
